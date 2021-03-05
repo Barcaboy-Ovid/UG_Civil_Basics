@@ -1,7 +1,6 @@
 /******************************************************************************
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
+                This code is written to calculate Cantilever and Simply supported beams
+                          Maximum Bending moment, Deflection and Slope 
 Author: Anto Ovid
 *******************************************************************************/
 
